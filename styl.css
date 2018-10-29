@@ -2,18 +2,19 @@ html, body {
 	background-color: #fff;
 	margin: 0;
 	text-align: center;
-  width: 1200px;
+  width: 1200 px;
+	height: 1080px;
   font-family: Open Sans;
 }
 #header {
   background-color: #3399ff;
-  height: 150px;
+  height: 150 px;
   color: #ffffff;
 }
 
 footer {
  background-color: #3399ff;
-  height: 150px;
+  height: 150 px;
   color: #ffffff;
 }
 
